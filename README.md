@@ -27,9 +27,9 @@ There are options to run tests on different environments:
 -Denv=${env_value} 
 ```
 e.g:
-``` -Denv=demo ``` or ``` -Denv=prod ```
+``` -Denv=test ``` or ``` -Denv=staging ``` or ``` -Denv=local ``` 
 
-Default value is ```demo```.
+Default value is ```test```.
 
 
 ###### To specify browser, please use next system properties:
